@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
 💻 I'm a **.NET developer** with a Bachelor's degree in Computer Engineering and a Postgraduate Certificate in Systems Design and Analysis.</br></br>
-👨🏼‍💻 I'm from **Rio de Janeiro, Brazil** :brazil: and currently live in **Porto, Portugal** :portugal:. </br></br>
+👨🏼‍💻 I'm from **Rio de Janeiro, Brazil** :brazil: and currently living in **Porto, Portugal** :portugal:. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
