@@ -1,4 +1,4 @@
-### Hi there 👋
+[![MasterHead](header.png)](github.com/bsalmeida)
 
 <!--
 **bsalmeida/bsalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! I'm Bruno, welcome to my GitHub. 🌱
+### Welcome to my GitHub. 🌱
 
 <hr />
 
+### About me 🚀
+💻 I'm a **.NET developer** with a Bachelor's degree in Computer Engineering and a Postgraduate Certificate in Systems Design and Analysis.</br></br>
+👨🏼‍💻 I'm from **Rio de Janeiro, Brazil** :brazil: currently living in **Porto, Portugal** :portugal:. </br></br>
+💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
+   
+<b><i>I truly believe that technology and software development has the power to change people's lives for the better.</i></b>
+
+<hr />
+
+### Reach me out on
 <a href="https://www.linkedin.com/in/bsalmeida/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -26,22 +36,13 @@ Here are some ideas to get you started:
   <img align="left" width="30px" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" />
 </a>
 
-<br/>
-
-### About Me 🚀
-💻 I'm a **.NET developer** with a Bachelor's degree in Computer Engineering and a Postgraduate Certificate in Systems Design and Analysis.</br></br>
-👨🏼‍💻 I'm from **Rio de Janeiro, Brazil** :brazil: currently living in **Porto, Portugal** :portugal:. </br></br>
-💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
-   
- <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
-    
-<br/>
+<br />
 <hr />
 
 <div align="center">
   <a href="https://github.com/bsalmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsalmeida&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsalmeida&layout=compact&langs_count=7&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsalmeida&show_icons=true&theme=gradient&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsalmeida&layout=compact&langs_count=7&theme=gradient" />
 </div>
 
 ## ⚡ Technologies and tools I use
